@@ -269,11 +269,11 @@ ul.row {
     background-color: var(--button-hover-background);
 }
 
-.card-testimonials {
+.card-testimonial {
     text-align: center;
 }
 
-.card-testimonials .card-avatar {
+.card-testimonial .card-avatar {
     border-radius: 50%;
     width: 10rem;;
     height: calc(10 * var(--line-height-base));
