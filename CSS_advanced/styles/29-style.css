@@ -54,7 +54,7 @@ h1 {
     --nav-item-letter-spacing: 4%;
     --nav-item-display: inline-block;
     --nav-item-margin: calc(3 * var(--font-size-medium)) 0 0;
-    --nav-item-link-hover: var(--primary-color);
+    --nav-item-link-hover: var(--color-white);
     --section-tagline-margin: 0;
     --button-display: inline-block;
     --button-padding: 1.5rem 3rem;
@@ -159,7 +159,7 @@ body {
 }
   
 .nav-link:hover {
-    color: var(--color-white);
+    color: var(--nav-item-link-hover);
 }
 
 .nav-item:hover .nav-link::before {
