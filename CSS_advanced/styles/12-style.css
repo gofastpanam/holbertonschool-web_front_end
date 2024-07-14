@@ -49,19 +49,10 @@ body {
     font-weight: var(--font-weight-regular);
     box-sizing: var(--line-height-base);
 }
-a[href] {
+a {
     color: var(--text-color);
     font-family: var(--font-family-base);
     text-decoration: none;
-}
-a[href]:visited {
-    font-style: italic;
-}
-a[href]:hover {
-    text-decoration: underline;
-}
-a[href]:active {
-    background-color: var(--color-light-grey);
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
