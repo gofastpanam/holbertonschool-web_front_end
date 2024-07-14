@@ -233,13 +233,13 @@ ul.row {
     margin: 0;
 }
 
-.card-services .a {
+.card-services a {
     display: block;
     padding: calc(2*(var(--section-padding)));
     background-color: var(--color-light-grey);
 }
 
-.card-services .a:hover {
+.card-services a:hover {
     color: var(--color-white);
     background-color: var(--primary-color);
     text-decoration: none;
