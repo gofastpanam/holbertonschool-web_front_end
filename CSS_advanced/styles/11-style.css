@@ -27,7 +27,7 @@
 .section-tagline {
     color: var(--primary-color);
     font-family: var(--font-family-title);
-    font-style: var(--section-tagline-transform);
+    font-display: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
 .card-category {
