@@ -235,7 +235,7 @@ ul.row {
 
 .card-services a {
     display: block;
-    padding: calc(2*(var(--section-padding)));
+    padding: calc(2* var(--section-padding));
     background-color: var(--color-light-grey);
 }
 
